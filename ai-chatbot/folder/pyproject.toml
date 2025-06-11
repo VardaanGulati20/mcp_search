@@ -1,0 +1,14 @@
+[project]
+name = "folder"
+version = "0.1.0"
+description = "LangChain Groq Integration"
+readme = "README.md"
+requires-python = ">=3.13.3"
+dependencies = [
+    "langchain-openai>=0.3.13",
+    "langchain-groq==0.3.2",
+    "mcp-use>=1.1.5"
+]
+
+
+
